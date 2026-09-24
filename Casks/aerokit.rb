@@ -1,6 +1,6 @@
 cask "aerokit" do
-  version "0.2.6"
-  sha256 "fe346f1053d724f555008a98a44e23f8f0ffbd5fd3dd9670f91cd33b7aaa58dc"
+  version "0.3.0"
+  sha256 "300cdfe2d2e9c03b2269299331b50e086a8e98372f1f480b24adedf64a5613cb"
 
   url "https://github.com/jomatsu/aerokit/releases/download/v#{version}/AeroKit-#{version}.zip"
   name "AeroKit"
